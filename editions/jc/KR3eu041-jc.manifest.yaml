@@ -1,0 +1,801 @@
+canonical_identifier: bkk:krp/KR3eu041/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eu041/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 素問紹識
+  identifiers:
+    krp: KR3eu041
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu041.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu041_000-jc.yaml, hash: 'sha256:4632f52c542e12efcac109703f8cddde935aac95217847ff68a364520e4133db'}
+  - {seq: 1, filename: KR3eu041_001-jc.yaml, hash: 'sha256:612ce1ee9b44aab2f916ea83c5b15c181a8b31f0264c9ddaafa90e54132521f9'}
+  - {seq: 2, filename: KR3eu041_002-jc.yaml, hash: 'sha256:121baf3b71c3239af5a8ee3aff8d3a285160597f89d9ccd9c13ca6a1f5f845c7'}
+  - {seq: 3, filename: KR3eu041_003-jc.yaml, hash: 'sha256:f34cd1278495c10748347aa4fe14e61e98676ef60a6d83c87ab2fd09705a26c1'}
+  - {seq: 4, filename: KR3eu041_004-jc.yaml, hash: 'sha256:3ff2a00317ef877c523844465778d94b1baf7336e3ed3db627bab36bb8269615'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eu041_001-jc.markers.yaml, hash: 'sha256:dc8ff34f09d0ccdbdcbeb3a6b835c55ddb8f6dcf3aaa42c41963043345922265'}
+  - {seq: 2, role: markers, filename: assets/KR3eu041_002-jc.markers.yaml, hash: 'sha256:0e2e4a423d3d511225d601549f001ecc7d4e3d859d907725d2a1ea579eb2ef45'}
+  - {seq: 3, role: markers, filename: assets/KR3eu041_003-jc.markers.yaml, hash: 'sha256:27e7a96cd9d6dffe0cc43aaac49f061264f0ab7e89f69d5b188978628e599f07'}
+  - {seq: 4, role: markers, filename: assets/KR3eu041_004-jc.markers.yaml, hash: 'sha256:9d3bc39d13de0328f7db58e47a7c85a3d90903ac4a5aee2a2bf00aac6859e4de'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu041_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 16242
+  label: 卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d2
+    span:
+    - body
+    - 3
+    - 1565
+  label: 上古天真論篇第一此篇太素僅存天癸一段
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d3
+    span:
+    - body
+    - 1565
+    - 2471
+  label: 四氣調神大論篇第二此篇太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d4
+    span:
+    - body
+    - 2471
+    - 4705
+  label: 生氣通天論篇第三太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d5
+    span:
+    - body
+    - 4705
+    - 5715
+  label: 金匱真言論篇第四此篇太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d6
+    span:
+    - body
+    - 5715
+    - 7680
+  label: 陰陽應象大論篇第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d7
+    span:
+    - body
+    - 7680
+    - 8642
+  label: 陰陽離合論篇第六太素全存吳曰此篇當與皮部論參看
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d8
+    span:
+    - body
+    - 8642
+    - 9506
+  label: 陰陽別論篇第七太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d9
+    span:
+    - body
+    - 9506
+    - 9826
+  label: 靈蘭秘典論篇第八太素所缺
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d10
+    span:
+    - body
+    - 9826
+    - 10684
+  label: 六節臟象論篇第九太素缺
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d11
+    span:
+    - body
+    - 10684
+    - 12055
+  label: 五藏生成篇第十太素缺篇首一段
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d12
+    span:
+    - body
+    - 12055
+    - 12439
+  label: 五藏別論篇第十一太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d13
+    span:
+    - body
+    - 12439
+    - 13247
+  label: 異法方宜論篇第十二太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d14
+    span:
+    - body
+    - 13247
+    - 13696
+  label: 移精變氣論篇第十三太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d15
+    span:
+    - body
+    - 13696
+    - 15139
+  label: 湯液醪醴論篇第十四太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d16
+    span:
+    - body
+    - 15139
+    - 15484
+  label: 玉版論要篇第十五太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu041_jc_001-d3d17
+    span:
+    - body
+    - 15484
+    - 16242
+  label: 診要經終論篇第十六太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 15738
+  label: 卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 3023
+  label: 脈要精微論篇第十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d3
+    span:
+    - body
+    - 3023
+    - 5177
+  label: 平人氣象論篇第十八太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d4
+    span:
+    - body
+    - 5177
+    - 7523
+  label: 玉機真藏論篇第十九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d5
+    span:
+    - body
+    - 7523
+    - 8392
+  label: 三部九候論篇第二十此篇中太素有缺
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d6
+    span:
+    - body
+    - 8392
+    - 8641
+  label: 經脈別論篇第二十一太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d7
+    span:
+    - body
+    - 8641
+    - 10110
+  label: 藏氣法時論篇第二十二太素僅存肝色青以下一段
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d8
+    span:
+    - body
+    - 10110
+    - 10615
+  label: 宣明五氣篇第二十三太素僅存五病五邪五脈應象余皆缺
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d9
+    span:
+    - body
+    - 10615
+    - 11186
+  label: 血氣形志篇第二十四太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d10
+    span:
+    - body
+    - 11186
+    - 11950
+  label: 寶命全形論篇第二十五太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d11
+    span:
+    - body
+    - 11950
+    - 12694
+  label: 八正神明論篇第二十六太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d12
+    span:
+    - body
+    - 12694
+    - 13331
+  label: 離合真邪論篇第二十七太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d13
+    span:
+    - body
+    - 13331
+    - 15104
+  label: 通評虛實論篇第二十八太素存頗有缺
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d14
+    span:
+    - body
+    - 15104
+    - 15621
+  label: 太陰陽明論篇第二十九太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu041_jc_002-d4d15
+    span:
+    - body
+    - 15621
+    - 15738
+  label: 陽明脈解篇第三十太素全存篇存上脫論字
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 14610
+  label: 卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d2
+    span:
+    - body
+    - 3
+    - 552
+  label: 熱論篇第三十一太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d3
+    span:
+    - body
+    - 552
+    - 1910
+  label: 刺熱篇第三十二太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d4
+    span:
+    - body
+    - 1910
+    - 2737
+  label: 評熱病論篇第三十三太素存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d5
+    span:
+    - body
+    - 2737
+    - 3301
+  label: 逆調論篇第三十四太素存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d6
+    span:
+    - body
+    - 3301
+    - 4683
+  label: 瘧論篇第三十五太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d7
+    span:
+    - body
+    - 4683
+    - 5775
+  label: 刺瘧篇第三十六太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d8
+    span:
+    - body
+    - 5775
+    - 6554
+  label: 氣厥論篇第三十七太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d9
+    span:
+    - body
+    - 6554
+    - 7205
+  label: 咳論篇第三十八太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d10
+    span:
+    - body
+    - 7205
+    - 8611
+  label: 舉痛論篇第三十九太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d11
+    span:
+    - body
+    - 8611
+    - 9724
+  label: 腹中論篇第四十太素熱中消中及懷子二節缺余皆存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d12
+    span:
+    - body
+    - 9724
+    - 10603
+  label: 刺腰痛篇第四十一太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d13
+    span:
+    - body
+    - 10603
+    - 12051
+  label: 風論篇第四十二太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d14
+    span:
+    - body
+    - 12051
+    - 12985
+  label: 痹論篇第四十三太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d15
+    span:
+    - body
+    - 12985
+    - 13615
+  label: 痿論篇第四十四太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu041_jc_003-d5d16
+    span:
+    - body
+    - 13615
+    - 14610
+  label: 厥論篇第四十五太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 16646
+  label: 卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d2
+    span:
+    - body
+    - 3
+    - 660
+  label: 病能論篇第四十六太素存但病風腰痛一節缺
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d3
+    span:
+    - body
+    - 660
+    - 1495
+  label: 奇病論篇第四十七太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d4
+    span:
+    - body
+    - 1495
+    - 2968
+  label: 大奇論篇第四十八太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d5
+    span:
+    - body
+    - 2968
+    - 4310
+  label: 脈解篇第四十九太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d6
+    span:
+    - body
+    - 4310
+    - 4356
+  label: 刺要論篇第五十太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d7
+    span:
+    - body
+    - 4356
+    - 4367
+  label: 刺齊論篇第五十一太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d8
+    span:
+    - body
+    - 4367
+    - 4628
+  label: 刺禁論篇第五十二太素刺中心以下缺
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d9
+    span:
+    - body
+    - 4628
+    - 4768
+  label: 刺志論篇第五十三太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d10
+    span:
+    - body
+    - 4768
+    - 4985
+  label: 針解篇第五十四太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d11
+    span:
+    - body
+    - 4985
+    - 5541
+  label: 長刺節論篇第五十五太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d12
+    span:
+    - body
+    - 5541
+    - 5912
+  label: 皮部論篇第五十六太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d13
+    span:
+    - body
+    - 5912
+    - 5936
+  label: 經絡論篇第五十七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d14
+    span:
+    - body
+    - 5936
+    - 6718
+  label: 氣穴論篇第五十八太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d15
+    span:
+    - body
+    - 6718
+    - 8239
+  label: 氣府論篇第五十九太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d16
+    span:
+    - body
+    - 8239
+    - 10029
+  label: 骨空論篇第六十太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d17
+    span:
+    - body
+    - 10029
+    - 10775
+  label: 水熱穴論篇第六十一太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d18
+    span:
+    - body
+    - 10775
+    - 12602
+  label: 調經論篇第六十二太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d19
+    span:
+    - body
+    - 12602
+    - 13674
+  label: 繆刺論篇第六十三太素全存
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d20
+    span:
+    - body
+    - 13674
+    - 13898
+  label: 四時刺逆從論篇第六十四太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d21
+    span:
+    - body
+    - 13898
+    - 14146
+  label: 標本病傳論篇第六十五太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d22
+    span:
+    - body
+    - 14146
+    - 14271
+  label: 著至教論篇第七十五太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d23
+    span:
+    - body
+    - 14271
+    - 14844
+  label: 示從容論篇第七十六太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d24
+    span:
+    - body
+    - 14844
+    - 15041
+  label: 疏五過論篇第七十七太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d25
+    span:
+    - body
+    - 15041
+    - 15304
+  label: 徵四失論篇第七十八太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d26
+    span:
+    - body
+    - 15304
+    - 15790
+  label: 陰陽類論篇第七十九太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d27
+    span:
+    - body
+    - 15790
+    - 16112
+  label: 方盛衰論篇第八十太素佚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu041_jc_004-d6d28
+    span:
+    - body
+    - 16112
+    - 16646
+  label: 解精微論篇第八十一太素佚
+  type: section
+  level: 2
+hash: sha256:b204b6a5368788f6947bda94cfc36ecd36593ca7f851cb27788970b57ea80347
